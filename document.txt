@@ -1,0 +1,34 @@
+cc1:Go to block 3 , on ground floor  after crossing cc2 :block3.jpeg
+cc2:Go to block 3, on ground floor first lab:block3.jpeg
+cc3:Go to block 3, first floor:block3.jpeg
+cc5: Go to block 3 , second floor:block3.jpeg
+cc6:Go to block 3, second floor:block3.jpeg
+cc4:block 3 , first floor:block3.jpeg
+CC 14: Block 5, ground floor:block5new.jpeg
+CC 15: block 5,ground floor:block5new.jpeg
+BEE lab: Block 2,first floor:block2.jpeg
+ao office :block 1, ground floor , near reception :block1.jpeg
+hostel fees : block 1,ground floor , second room near steps:block1.jpeg
+ID missing: go to library , on second floor, register
+cipd: block 9
+hod 1st year: Mr.THIRUNELAKANDAN
+aids hod:Dr.P.Karunakaran
+civil hod: Dr.E.K.Mohanraj
+cse hod:Dr.T.Rajasekaran
+mechanical hod: Dr.M.Muthukummar
+bme hod: Dr.C.K.Vijayalakshmi
+eee hod :Dr.G.Ramani
+boys hostel: NRI 1-9942216806   NRI 2-9942216805   NRI 3- 9965516803
+girls hostel: 9095292168,7373710103
+about nec:Established in 2001, Nandha Engineering College, which started with 3 branches, is in its 25th year of service to the student community. It remains the flagship brand of Nandha Educational Institutions and is recognized as one of the best engineering colleges in the state of Tamil Nadu.:clg.jpeg
+
+Nandha Engineering College, under the guidance of the illustrious Chairman Thiru. V. Shanmugan and Secretaries Thiru. S. Nandhakumar Pradeep and Thiru S. Thirumoorthy, with foresight and far-reaching vision, is at the forefront of innovation in technical and management education.
+
+The college, as of now, is functioning with 3000 students belonging to 12 Engineering and Technology departments, Computer Applications, Management Studies, Basic Science and Humanities Department. Nandha Engineering College excels as one of the Top Engineering Colleges in Erode.
+
+how to pay placement fees: open nandha fees structure in google  , on first link ,placemment fees will be open:NECLOGO.jpeg
+nec principal:Dr.U.S.Ragupathy :principal.jpeg
+nec secretary: Thiru.S.Thirumoorthi:secretry.jpeg
+drawing hall:block 6
+how to calculate cgpa:add the marks according to the given grade for eg 'O'10,Then multiple with subject credicts.eg 10*1=10.finally add all grades , divide by total sub
+club activity: DAY -SATURDAY , 2times per sem, 4 times per year , up to 2 years only you can choose 2 club activities

@@ -1,0 +1,5 @@
+com\example\chatbot\ChatController.class
+com\example\chatbot\ChatbotApplication.class
+com\example\chatbot\DataLoader.class
+com\example\chatbot\ChatData.class
+com\example\chatbot\ChatRepository.class
